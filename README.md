@@ -1,12 +1,12 @@
 
-## Hi, I'm Rasel Alam Jubayed 👋
+## Hi, This is Rasel Alam Jubayed 👋
 
 ### About MySelf
 - 🔭 I’m currently working on react-js project
-- 🌱 I’m currently learning react-native
-- 👯 I’m looking to collaborate on youtube
-- 🤔 I’m looking for help with react-js-documentation
-- 💬 Ask me about Web application development technology
+- 🌱 Learning node-js -mongodb
+- 👯 Looking to collaborate on youtube
+- 🤔 Looking for help with react-js-documentation
+- 👨‍💻 Ask me about Web application development technology
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/raselalamra/" target="_blank">Rasel Alam Jubayed</a>
 
 ### My Github Stats
