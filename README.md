@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rasel Alam Jubayed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+
+### About MySelf
+- 🔭 I’m currently working on react-js project
+- 🌱 I’m currently learning react-native
+- 👯 I’m looking to collaborate on youtube
+- 🤔 I’m looking for help with react-js-documentation
+- 💬 Ask me about Web application development technology
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raselalamra&label=Profile%20views&color=0e75b6&style=flat" alt="raselalamra" /> </p>
 
 <p align="left"> <a href="https://twitter.com/raselalamra" target="blank"><img src="https://img.shields.io/twitter/follow/raselalamra?logo=twitter&style=for-the-badge" alt="raselalamra" /></a> </p>
